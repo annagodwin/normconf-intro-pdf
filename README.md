@@ -17,9 +17,9 @@ doc = fitz.open(“sample.pdf”)
 
 text_list = list()
 for page in doc:
-text_list.append(page.get_textpage().extractText())
+	text_list.append(page.get_textpage().extractText())
 
-all_text_str = " ".join(collate_text_list)
+all_text_str = " ".join(text_list)
 ```
 
 ### Condense PDF: pymupdf
