@@ -1,6 +1,8 @@
 # NormConf Intro to PDF Text & Table Extraction
 
-Supplemental code/data for NormConf Lightning Talk on PDF Text & Table Extraction presented by Anna Godwin in December 2022.
+Supplemental code/data for NormConf Lightning Talk on PDF Text & Table Extraction presented by Anna Godwin in December 2022. 
+
+[Lightning Talk Youtube Video (~5 min)](https://www.youtube.com/watch?v=rB_yaWEHhtM)
 
 ## Code Snippets in the Lightning Talk Powerpoint
 
